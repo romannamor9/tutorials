@@ -3,7 +3,7 @@
     "version": "0.0.1"
   },
   {
-    "homeUrl": "news/soft",
+    "homeUrl": "tutorials",
     "description": "soft&news&go",
     "actionLibraries": {
       "google": false
